@@ -1,0 +1,51 @@
+[
+    {
+        "results": [
+            {
+                "Longitude": "-71.054269",
+                "Latitude": "41.854102",
+                "State": "MA",
+                "City": "BERKLEY",
+                "ZipFive": "02779",
+                "Address": "8 COTLEY ST",
+                "RadarID": "P9A9FE75",
+                "PType": "SFR",
+                "AdvancedPropertyType": "Single Family Residence",
+                "Beds": 4,
+                "Baths": 1.5,
+                "SqFt": 2403,
+                "LotSize": 147233,
+                "LotSizeAcres": 3.38,
+                "YearBuilt": 1999,
+                "isSameMailingOrExempt": 1,
+                "isNotSameMailingOrExempt": 0,
+                "isHighEquity": 0,
+                "isUnderwater": 0,
+                "isFreeAndClear": 1,
+                "isRecentFlip": 0,
+                "isRecentSale": 1,
+                "isCashBuyer": 1,
+                "isDeceasedProperty": 0,
+                "isSiteVacant": 0,
+                "isSameMailing": 1,
+                "AVM": 791924,
+                "AvailableEquity": 791924,
+                "inForeclosure": 0,
+                "inTaxDelinquency": 0,
+                "LastTransferRecDate": "2025-10-07",
+                "LastTransferValue": 785000,
+                "isListedForSale": 0,
+                "PropertyHasOpenPersonLiens": 0,
+                "PropertyHasOpenLiens": 0,
+                "inDivorceProperty": 0,
+                "inBankruptcyProperty": 0,
+                "isPreforeclosure": 0,
+                "isAuction": 0,
+                "isBankOwned": 0
+            }
+        ],
+        "totalCost": 0,
+        "resultCount": 1,
+        "totalResultCount": 1
+    }
+]

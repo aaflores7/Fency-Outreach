@@ -1,0 +1,81 @@
+--- Request Successful! ---
+Received an unexpected response format. Full response:
+{
+  "results": [
+    {
+      "ListID": 1088070,
+      "ListName": "New Movers - Last 180 Days",
+      "ListType": "dynamic",
+      "TotalCount": "19140",
+      "GroupName": "My Lists",
+      "Count": "19140"
+    },
+    {
+      "ListID": 1113566,
+      "ListName": "2025-11-03-102127",
+      "ListType": "dynamic",
+      "TotalCount": "17954",
+      "GroupName": "My Lists",
+      "Count": "17954"
+    },
+    {
+      "ListID": 1113577,
+      "ListName": "2025-11-03-121328",
+      "ListType": "dynamic",
+      "TotalCount": "17954",
+      "GroupName": "My Lists",
+      "Count": "17954"
+    },
+    {
+      "ListID": 1113565,
+      "ListName": "DailyNewMoverArea-2025-11-03-102041",
+      "ListType": "dynamic",
+      "TotalCount": "17954",
+      "GroupName": "My Lists",
+      "Count": "17954"
+    },
+    {
+      "ListID": 1092850,
+      "ListName": "New Movers - Norfolk County 6/13/2025 - 07/13/202",
+      "ListType": "dynamic",
+      "TotalCount": "669",
+      "GroupName": "My Lists",
+      "Count": "669"
+    },
+    {
+      "ListID": 1094338,
+      "ListName": "New Movers - Norfolk County 08/13/2025 - 09/13/202",
+      "ListType": "dynamic",
+      "TotalCount": "584",
+      "GroupName": "My Lists",
+      "Count": "584"
+    },
+    {
+      "ListID": 1087906,
+      "ListName": "New Movers - Greater Boston - Angelo",
+      "ListType": "dynamic",
+      "TotalCount": "458",
+      "GroupName": "My Lists",
+      "Count": "458"
+    },
+    {
+      "ListID": 1092862,
+      "ListName": "NESSRALLA",
+      "ListType": "dynamic",
+      "TotalCount": "73",
+      "GroupName": "My Lists",
+      "Count": "73"
+    },
+    {
+      "ListID": 1081422,
+      "ListName": "new movers - norfolk county",
+      "ListType": "dynamic",
+      "TotalCount": "34",
+      "GroupName": "My Lists",
+      "Count": "34"
+    }
+  ],
+  "totalCountAcrossLists": 34,
+  "maxAllowedAcrossLists": 50000,
+  "remainingAcrossAllLists": "49966"
+}

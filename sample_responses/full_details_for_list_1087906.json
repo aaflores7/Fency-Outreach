@@ -1,0 +1,75 @@
+[
+    {
+        "results": [
+            {
+                "State": "MA",
+                "City": "BERKLEY",
+                "ZipFive": "02779",
+                "Address": "8 COTLEY ST",
+                "OwnerFirstName": "STEPHEN B",
+                "OwnerLastName": "FOLEY",
+                "OwnerAddress": "8 COTLEY ST",
+                "OwnerCity": "BERKLEY",
+                "OwnerZipFive": "02779",
+                "OwnerState": "MA",
+                "DisclaimerDetails": "Property, transaction, estimated values, loan balances, rent and foreclosure data provided by PropertyRadar may be subject to errors and omissions and are for informational purposes only. <a href='https://www.propertyradar.com/user-agreement' target='_blank'>User Agreement</a>.",
+                "_links": {
+                    "self": {
+                        "href": "/v1/properties/P9A9FE75"
+                    }
+                }
+            }
+        ],
+        "totalCost": 0,
+        "resultCount": 1,
+        "totalResultCount": 1
+    },
+    {
+        "results": [
+            {
+                "State": "MA",
+                "City": "NORTH DARTMOUTH",
+                "ZipFive": "02747",
+                "Address": "6 CRESCENT DR",
+                "OwnerAddress": "6 CRESCENT DR",
+                "OwnerCity": "DARTMOUTH",
+                "OwnerZipFive": "02747",
+                "OwnerState": "MA",
+                "DisclaimerDetails": "Property, transaction, estimated values, loan balances, rent and foreclosure data provided by PropertyRadar may be subject to errors and omissions and are for informational purposes only. <a href='https://www.propertyradar.com/user-agreement' target='_blank'>User Agreement</a>.",
+                "_links": {
+                    "self": {
+                        "href": "/v1/properties/P9AA2362"
+                    }
+                }
+            }
+        ],
+        "totalCost": 0,
+        "resultCount": 1,
+        "totalResultCount": 1
+    },
+    {
+        "results": [
+            {
+                "State": "MA",
+                "City": "NORTH DIGHTON",
+                "ZipFive": "02764",
+                "Address": "2685 MAPLE SWAMP RD",
+                "OwnerFirstName": "BILODEAU",
+                "OwnerLastName": "ROSS",
+                "OwnerAddress": "2685 MAPLE SWAMP RD",
+                "OwnerCity": "NORTH DIGHTON",
+                "OwnerZipFive": "02764",
+                "OwnerState": "MA",
+                "DisclaimerDetails": "Property, transaction, estimated values, loan balances, rent and foreclosure data provided by PropertyRadar may be subject to errors and omissions and are for informational purposes only. <a href='https://www.propertyradar.com/user-agreement' target='_blank'>User Agreement</a>.",
+                "_links": {
+                    "self": {
+                        "href": "/v1/properties/P9AA344E"
+                    }
+                }
+            }
+        ],
+        "totalCost": 0,
+        "resultCount": 1,
+        "totalResultCount": 1
+    }
+]

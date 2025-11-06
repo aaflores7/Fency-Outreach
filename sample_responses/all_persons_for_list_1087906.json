@@ -1,0 +1,54 @@
+[
+    {
+        "PersonKey": "p282643096",
+        "isPrimaryContact": 1,
+        "OwnershipRole": "Owner",
+        "PrimaryResidence": [
+            {
+                "RadarID": "P9AA93A0",
+                "Address": "2 EDMUND H NICHOLS RD, NORTH ATTLEBORO, MA 02760"
+            }
+        ],
+        "OtherProperties": [
+            {
+                "RadarID": "P9AA93A0",
+                "Address": "2 EDMUND H NICHOLS RD, NORTH ATTLEBORO, MA 02760"
+            }
+        ],
+        "PersonType": "Person",
+        "FirstName": "STEPHEN",
+        "LastName": "FOLEY",
+        "Age": "54",
+        "Gender": "Male",
+        "MailAddress": [
+            {
+                "RadarID": "P9AA93A0",
+                "Address": "2 EDMUND H NICHOLS RD, NORTH ATTLEBORO, MA 02760"
+            }
+        ],
+        "Occupation": "Homemaker",
+        "Phone": [
+            {
+                "href": "/v1/persons/p282643096/Phone"
+            }
+        ]
+    },
+    {
+        "PersonKey": "p1021998139",
+        "isPrimaryContact": 0,
+        "OwnershipRole": "Owner",
+        "PrimaryResidence": [
+            {
+                "Address": "8 COTLEY ST, BERKLEY, MA 02779"
+            }
+        ],
+        "PersonType": "Person",
+        "FirstName": "CATHERINE",
+        "LastName": "FOLEY",
+        "MailAddress": [
+            {
+                "Address": "8 COTLEY ST, BERKLEY, MA 02779"
+            }
+        ]
+    }
+]
