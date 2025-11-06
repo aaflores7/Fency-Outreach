@@ -1,6 +1,5 @@
-======================================
- FENCY OUTREACH - AUTOMATED DATA PIPELINE
-======================================
+# FENCY OUTREACH - AUTOMATED DATA PIPELINE
+
 
 OVERVIEW
 --------
